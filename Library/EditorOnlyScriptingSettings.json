@@ -1,1 +1,1 @@
-{"m_DefineSymbols":{"m_Value":{},"m_Initialized":false},"m_AllowUnsafeCode":{"m_Value":false,"m_Initialized":false},"m_ScriptDebugInfoEnabled":{"m_Value":false,"m_Initialized":true}}
+{"m_DefineSymbols":{"m_Value":{"Android":"ENABLE_DEBUG_AND_ABOVE_LOG","Standalone":"ENABLE_DEBUG_AND_ABOVE_LOG","WebGL":"ENABLE_DEBUG_AND_ABOVE_LOG","Windows Store Apps":"ENABLE_DEBUG_AND_ABOVE_LOG","iPhone":"ENABLE_DEBUG_AND_ABOVE_LOG"},"m_Initialized":true},"m_AllowUnsafeCode":{"m_Value":false,"m_Initialized":false},"m_ScriptDebugInfoEnabled":{"m_Value":false,"m_Initialized":true}}
