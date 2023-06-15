@@ -3,8 +3,8 @@
     "UxmlPath": "Assets/Scenes/Demo2/Button.uxml",
     "CanvasX": 0,
     "CanvasY": 0,
-    "CanvasWidth": 641,
-    "CanvasHeight": 170,
+    "CanvasWidth": 640,
+    "CanvasHeight": 480,
     "MatchGameView": true,
     "ZoomScale": 1.0,
     "PanOffset": {

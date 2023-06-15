@@ -114,7 +114,7 @@
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
--define:ENABLE_DEBUG_AND_ABOVE_LOG
+-define:ENABLE_LOG
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"Assets/GameFramework/Libraries/GameFramework.dll"
@@ -357,6 +357,9 @@
 "Assets/Scenes/Demo2/ProcedureGame.cs"
 "Assets/Scenes/Demo2/ProcedureLaunch.cs"
 "Assets/Scenes/Demo2/ProcedureMenu.cs"
+"Assets/Scenes/Demo3/ProcedureLaunch.cs"
+"Assets/Scenes/Demo3/ProcedureMenu.cs"
+"Assets/Scenes/Demo3/UIMenu.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"

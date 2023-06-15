@@ -15,23 +15,23 @@
                 "m_VisualTreeAssetBackup": {
                     "instanceID": 0
                 },
-                "m_OpenendVisualTreeAssetOldPath": "Assets/Scenes/Demo2/Button.uxml",
+                "m_OpenendVisualTreeAssetOldPath": "Assets/Scenes/Demo3/Demo3Menu.uxml",
                 "m_VisualTreeAsset": {
                     "fileID": 9197481963319205126,
-                    "guid": "9a4b7b3e4fe662840b80202d696340de",
+                    "guid": "51615a657b22e9b468f473e08f6cc881",
                     "type": 3
                 },
                 "m_ActiveStyleSheet": {
                     "instanceID": 0
                 },
                 "m_Settings": {
-                    "UxmlGuid": "9a4b7b3e4fe662840b80202d696340de",
-                    "UxmlPath": "Assets/Scenes/Demo2/Button.uxml",
+                    "UxmlGuid": "51615a657b22e9b468f473e08f6cc881",
+                    "UxmlPath": "Assets/Scenes/Demo3/Demo3Menu.uxml",
                     "CanvasX": 0,
                     "CanvasY": 0,
-                    "CanvasWidth": 640,
-                    "CanvasHeight": 480,
-                    "MatchGameView": true,
+                    "CanvasWidth": 350,
+                    "CanvasHeight": 450,
+                    "MatchGameView": false,
                     "ZoomScale": 1.0,
                     "PanOffset": {
                         "x": 20.0,

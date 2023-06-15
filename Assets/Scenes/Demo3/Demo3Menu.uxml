@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="-unity-background-image-tint-color: rgb(255, 247, 247); height: 100%; width: 100%; background-color: rgb(255, 245, 245);">
+        <ui:Label text="菜单内容" display-tooltip-when-elided="true" style="color: rgba(0, 0, 0, 255); font-size: 50px;" />
+    </ui:VisualElement>
+</ui:UXML>
