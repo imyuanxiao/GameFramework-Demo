@@ -365,6 +365,8 @@
 "Assets/Scenes/Demo4/UIMenu.cs"
 "Assets/Scenes/Demo5/DREnemy.cs"
 "Assets/Scenes/Demo5/ProcedureLaunch.cs"
+"Assets/Scenes/Demo6/PlayerLogic.cs"
+"Assets/Scenes/Demo6/ProcedureLaunch.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
