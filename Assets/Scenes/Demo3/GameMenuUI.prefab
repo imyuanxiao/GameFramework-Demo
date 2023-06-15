@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8830492704708908877}
   - component: {fileID: 1525720892661451217}
-  - component: {fileID: 3122481180863085789}
+  - component: {fileID: 8238104084386953673}
   m_Layer: 5
   m_Name: GameMenuUI
   m_TagString: Untagged
@@ -47,9 +47,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PanelSettings: {fileID: 11400000, guid: 8292cfdb119918041a927191ea131e25, type: 2}
   m_ParentUI: {fileID: 0}
-  sourceAsset: {fileID: 9197481963319205126, guid: 51615a657b22e9b468f473e08f6cc881, type: 3}
+  sourceAsset: {fileID: 9197481963319205126, guid: cdec9377a003a9d4e8ad9a3111d59fee, type: 3}
   m_SortingOrder: 0
---- !u!114 &3122481180863085789
+--- !u!114 &8238104084386953673
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -58,6 +58,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 3864931606085839607}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2c0590d00bd06954884bd6cdbd6310a8, type: 3}
+  m_Script: {fileID: 11500000, guid: b73b9b0ae519cb34fb0fbed518a99d90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
